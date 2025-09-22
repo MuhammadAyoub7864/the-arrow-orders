@@ -1,76 +1,72 @@
-{
-  "orders": [
-    {
-      "id": "921704346",
-      "name": "921704346",
-      "order_status": "processing",
-      "order_date": "2025-09-09",
-      "last_name": "محامص ركن بيتي",
-      "full_name": "محامص ركن بيتي",
-      "shipping_method": "",
-      "order_total": 126,
-      "products": [
-        {
-          "product_id": "2137922157",
-          "variation_id": "",
-          "image_url": "",
-          "price": 18,
-          "sku": "588547846786",
-          "name": "رول ورق حراري دائري ابيض 5cm",
-          "description": "",
-          "quantity": 2,
-          "stock_quantity": 0,
-          "categories": ""
-        },
-        {
-          "product_id": "1229666670",
-          "variation_id": "",
-          "image_url": "",
-          "price": 18,
-          "sku": "356765894568",
-          "name": "رول ورق حراري دائري برتقالي 5cm",
-          "description": "",
-          "quantity": 1,
-          "stock_quantity": 0,
-          "categories": ""
-        },
-        {
-          "product_id": "454056047",
-          "variation_id": "",
-          "image_url": "",
-          "price": 18,
-          "sku": "578356946784",
-          "name": "رول ورق حراري دائري اصفر 5cm",
-          "description": "",
-          "quantity": 1,
-          "stock_quantity": 0,
-          "categories": ""
-        },
-        {
-          "product_id": "1962764136",
-          "variation_id": "",
-          "image_url": "",
-          "price": 27,
-          "sku": "911456756778",
-          "name": "رول ورق حراري دائري ابيض 7cm",
-          "description": "",
-          "quantity": 1,
-          "stock_quantity": 0,
-          "categories": ""
-        },
-        {
-          "product_id": "278963562",
-          "variation_id": "",
-          "image_url": "",
-          "price": 27,
-          "sku": "254724573217",
-          "name": "رول ورق حراري دائري برتقالي 7cm",
-          "description": "",
-          "quantity": 1,
-          "stock_quantity": 0,
-          "categories": ""
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "921704346",
+    "name": "921704346",
+    "order_status": "processing",
+    "order_date": "09-09-2025",
+    "last_name": "محامص ركن بيتي",
+    "order_total": 137.4,
+    "products": [
+      {
+        "product_id": "2137922157",
+        "variation_id": "",
+        "image_url": "",
+        "price": 18,
+        "sku": "588547846786",
+        "name": "رول ورق حراري دائري ابيض 5cm",
+        "description": "",
+        "quantity": 2,
+        "stock_quantity": 0,
+        "categories": ""
+      },
+      {
+        "product_id": "1229666670",
+        "variation_id": "",
+        "image_url": "",
+        "price": 18,
+        "sku": "356765894568",
+        "name": "رول ورق حراري دائري برتقالي 5cm",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 0,
+        "categories": ""
+      },
+      {
+        "product_id": "454056047",
+        "variation_id": "",
+        "image_url": "",
+        "price": 18,
+        "sku": "578356946784",
+        "name": "رول ورق حراري دائري اصفر 5cm",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 0,
+        "categories": ""
+      },
+      {
+        "product_id": "1962764136",
+        "variation_id": "",
+        "image_url": "",
+        "price": 27,
+        "sku": "911456756778",
+        "name": "رول ورق حراري دائري ابيض 7cm",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 0,
+        "categories": ""
+      },
+      {
+        "product_id": "278963562",
+        "variation_id": "",
+        "image_url": "",
+        "price": 27,
+        "sku": "254724573217",
+        "name": "رول ورق حراري دائري برتقالي 7cm",
+        "description": "",
+        "quantity": 1,
+        "stock_quantity": 0,
+        "categories": ""
+      }
+    ]
+  }
+]
