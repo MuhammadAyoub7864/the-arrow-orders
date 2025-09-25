@@ -32,40 +32,5 @@
         "categories": ""
       }
     ]
-  },
-  {
-    "id": "208853531",
-    "name": "50581060876",
-    "order_status": "processing",
-    "order_date": "2025-09-20",
-    "last_name": "Ahmed Shawish",
-    "order_total": 197,
-    "custom_field_label": "رول واحد,12 - رول سعر الرول 12.5 ريال",
-    "products": [
-      {
-        "product_id": "1485754460",
-        "variation_id": "",
-        "image_url": "https://cdn.salla.sa/bQPVz/bomY3pocW4ws7SxxvsTNkxOgSPrR4cUQJpXNNqkN.png",
-        "price": 49,
-        "sku": "342250604086",
-        "name": "4- رولات بولصات شحن 350 ورقة",
-        "description": "",
-        "quantity": 3,
-        "stock_quantity": 969,
-        "categories": ""
-      },
-      {
-        "product_id": "711720797",
-        "variation_id": "",
-        "image_url": "https://cdn.salla.sa/bQPVz/bomY3pocW4ws7SxxvsTNkxOgSPrR4cUQJpXNNqkN.png",
-        "price": 499,
-        "sku": "554835979697",
-        "name": "طابعة حرارية متعددة الوظائف",
-        "description": "",
-        "quantity": 1,
-        "stock_quantity": 969,
-        "categories": ""
-      }
-    ]
   }
 ]
