@@ -40,8 +40,6 @@
     "order_date": "2025-09-20",
     "last_name": "Ahmed Shawish",
     "order_total": 197,
-    "custom_field_label": "Extra info",
-    "custom_field": "رول واحد,12 - رول سعر الرول 12.5 ريال",
     "products": [
       {
         "product_id": "1485754460",
@@ -53,7 +51,9 @@
         "description": "",
         "quantity": 3,
         "stock_quantity": 969,
-        "categories": ""
+        "categories": "",
+        "custom_field_label": "Extra info",
+        "custom_field": "رول واحد"
       },
       {
         "product_id": "711720797",
@@ -65,7 +65,9 @@
         "description": "",
         "quantity": 1,
         "stock_quantity": 969,
-        "categories": ""
+        "categories": "",
+        "custom_field_label": "Extra info",
+        "custom_field": "12 - رول سعر الرول 12.5 ريال"
       }
     ]
   }
