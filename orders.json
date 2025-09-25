@@ -1,75 +1,5 @@
 [
   {
-    "id": "208011746",
-    "name": "50580537265",
-    "order_status": "processing",
-    "order_date": "2025-09-20",
-    "last_name": "محمد العتيبي",
-    "order_total": 654,
-    "products": [
-      {
-        "product_id": "1159421516",
-        "variation_id": "",
-        "image_url": "https://cdn.salla.sa/bQPVz/e9bf593d-3d53-44b4-84ac-946bc1b4b9db-500x500-yc4GJPo22bcir3TKOKzN6XaHXW1BHWJw0YpjYclh.png",
-        "price": 49,
-        "sku": "342250604086",
-        "name": "4- رولات بولصات شحن 350 ورقة",
-        "description": "",
-        "quantity": 3,
-        "stock_quantity": 475,
-        "categories": ""
-      },
-      {
-        "product_id": "1624153166",
-        "variation_id": "",
-        "image_url": "https://cdn.salla.sa/bQPVz/DP0FgUnh1bOe7UBGlgONh7TwX9h6THlUrGm4hbpp.png",
-        "price": 499,
-        "sku": "554835979697",
-        "name": "طابعة حرارية متعددة الوظائف",
-        "description": "",
-        "quantity": 1,
-        "stock_quantity": 30,
-        "categories": ""
-      }
-    ]
-  },
-  {
-    "id": "208011746",
-    "name": "50580537265",
-    "order_status": "processing",
-    "order_date": "2025-09-20",
-    "last_name": "محمد العتيبي",
-    "order_total": 654,
-    "products": [
-      {
-        "product_id": "1159421516",
-        "variation_id": "",
-        "image_url": "https://cdn.salla.sa/bQPVz/e9bf593d-3d53-44b4-84ac-946bc1b4b9db-500x500-yc4GJPo22bcir3TKOKzN6XaHXW1BHWJw0YpjYclh.png",
-        "price": 49,
-        "sku": "342250604086",
-        "name": "4- رولات بولصات شحن 350 ورقة",
-        "description": "",
-        "quantity": 3,
-        "stock_quantity": 475,
-        "categories": "",
-        "custom_field_label": "اسود"
-      },
-      {
-        "product_id": "1624153166",
-        "variation_id": "",
-        "image_url": "https://cdn.salla.sa/bQPVz/DP0FgUnh1bOe7UBGlgONh7TwX9h6THlUrGm4hbpp.png",
-        "price": 499,
-        "sku": "554835979697",
-        "name": "طابعة حرارية متعددة الوظائف",
-        "description": "",
-        "quantity": 1,
-        "stock_quantity": 30,
-        "categories": "",
-        "custom_field_label": ""
-      }
-    ]
-  },
-  {
     "id": "208853531",
     "name": "50581060876",
     "order_status": "processing",
@@ -87,8 +17,7 @@
         "description": "",
         "quantity": 3,
         "stock_quantity": 969,
-        "categories": "",
-        "custom_field_label": "رول واحد"
+        "categories": ""
       },
       {
         "product_id": "711720797",
@@ -100,67 +29,7 @@
         "description": "",
         "quantity": 1,
         "stock_quantity": 969,
-        "categories": "",
-        "custom_field_label": "12 - رول سعر الرول 12.5 ريال"
-      }
-    ]
-  },
-  {
-    "id": "209063915",
-    "name": "50581298843",
-    "order_status": "processing",
-    "order_date": "2025-09-25",
-    "last_name": "زياد العنزي",
-    "order_total": 499.5,
-    "products": [
-      {
-        "product_id": "1690873376",
-        "variation_id": "",
-        "image_url": "https://cdn.salla.sa/bQPVz/rE1Q1CLnKsmh0C039UkslwSq53mkM4BOIomHcISi.png",
-        "price": 459,
-        "sku": "298444123065",
-        "name": "طابعة حرارية ورق بالخارج",
-        "description": "",
-        "quantity": 1,
-        "stock_quantity": 12,
-        "categories": "",
-        "custom_field_label": "اسود"
-      },
-      {
-        "product_id": "915787041",
-        "variation_id": "",
-        "image_url": "https://cdn.salla.sa/bQPVz/EWHJUPZOwOIK6Ft9M2diSOIIoMB66gyYjnYwVFYK.png",
-        "price": 16,
-        "sku": "303410021571",
-        "name": "ورق طباعة حراري لاصق مناسب لبوليصات الشحن Thermal Roll Labels 100x150mm",
-        "description": "",
-        "quantity": 6,
-        "stock_quantity": 1892,
-        "categories": "",
-        "custom_field_label": ""
-      }
-    ]
-  },
-  {
-    "id": "208983334",
-    "name": "50581298880",
-    "order_status": "processing",
-    "order_date": "2025-09-25",
-    "last_name": "سالم زايد",
-    "order_total": 62,
-    "products": [
-      {
-        "product_id": "1012793494",
-        "variation_id": "",
-        "image_url": "https://cdn.salla.sa/bQPVz/wkAhbUFha4iIvNKIvdVORsSiCjNc575xZaDhzSqw.png",
-        "price": 19,
-        "sku": "467909345766",
-        "name": "ورق حراري مربع 4x4in (100x100mm) direct thermal roll",
-        "description": "",
-        "quantity": 2,
-        "stock_quantity": 960,
-        "categories": "",
-        "custom_field_label": "رول واحد"
+        "categories": ""
       }
     ]
   }
