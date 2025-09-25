@@ -51,7 +51,8 @@
         "description": "",
         "quantity": 3,
         "stock_quantity": 475,
-        "categories": ""
+        "categories": "",
+        "custom_field_label": "اسود"
       },
       {
         "product_id": "1624153166",
@@ -63,41 +64,8 @@
         "description": "",
         "quantity": 1,
         "stock_quantity": 30,
-        "categories": ""
-      }
-    ]
-  },
-  {
-    "id": "208853531",
-    "name": "50581060876",
-    "order_status": "processing",
-    "order_date": "2025-09-24",
-    "last_name": "Ahmed Shawish",
-    "order_total": 197,
-    "products": [
-      {
-        "product_id": "1485754460",
-        "variation_id": "",
-        "image_url": "https://cdn.salla.sa/bQPVz/bomY3pocW4ws7SxxvsTNkxOgSPrR4cUQJpXNNqkN.png",
-        "price": 14,
-        "sku": "308475797408",
-        "name": "ورق حراري مربع 3x2in (75x50mm) direct thermal roll",
-        "description": "",
-        "quantity": 1,
-        "stock_quantity": 969,
-        "categories": ""
-      },
-      {
-        "product_id": "711720797",
-        "variation_id": "",
-        "image_url": "https://cdn.salla.sa/bQPVz/bomY3pocW4ws7SxxvsTNkxOgSPrR4cUQJpXNNqkN.png",
-        "price": 14,
-        "sku": "8899462764928",
-        "name": "ورق حراري مربع 3x2in (75x50mm) direct thermal roll",
-        "description": "",
-        "quantity": 1,
-        "stock_quantity": 969,
-        "categories": ""
+        "categories": "",
+        "custom_field_label": ""
       }
     ]
   }
